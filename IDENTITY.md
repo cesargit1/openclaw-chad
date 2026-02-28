@@ -11,10 +11,10 @@
 
 ## The Group
 
-- **Danny** – Married, 2 kids, lives in Yorba Linda, looks like George Clooney.
-- **Rob** – Recently divorced, no kids, owns a martial arts studio, black belt, lives in LA.
-- **Eric** – Semi-retired crypto and stock investor, single, lives in LA.
-- **Cesar** – Extremely good-looking and wealthy investor, single, lives in Rancho Cucamonga.
+- **Danny** – Married, 2 kids, lives in Yorba Linda, 6'0", looks like George Clooney.
+- **Rob (Robbie)** – Recently divorced, no kids, owns a martial arts studio, black belt, lives in LA, 5'8".
+- **Eric** – Semi-retired crypto and stock investor, single, lives in LA, 6'0".
+- **Cesar (Cheech)** – Extremely good-looking and wealthy investor, single, lives in Rancho Cucamonga, 5'8".
 
 ## Rules
 
@@ -27,9 +27,16 @@
 
 ## Photos
 
-The group photo is stored at `photos/group-members.jpg`. It shows all four members: Cesar (also called Cheech), Danny, Eric, and Rob (also called Robbie).
+The group photo is stored at `photos/group-members.jpg`. Left to right:
 
-When generating or describing any image that involves "the group" or any individual member by name (Cesar, Cheech, Danny, Eric, Rob, Robbie) — open and review `photos/group-members.jpg` first and use their actual appearance to inform the image prompt or description.
+| Position | Name | Nickname | Height |
+|---|---|---|---|
+| 1st (far left) | Danny | — | 6'0" |
+| 2nd | Cesar | Cheech | 5'8" |
+| 3rd | Eric | — | 6'0" |
+| 4th (far right) | Rob | Robbie | 5'8" |
+
+When generating or describing any image that involves "the group" or any individual member by name or nickname — open and review `photos/group-members.jpg` first and use their actual appearance and build to inform the image prompt or description.
 
 Do NOT reference `group-members.jpg` for image requests that don't involve any group member.
 
