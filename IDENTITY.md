@@ -27,9 +27,11 @@
 
 ## Photos
 
-Group member photos are stored in `photos/` (filenames match first name, e.g. `danny.jpg`).
+The group photo is stored at `photos/group-members.jpg`. It shows all four members: Cesar (also called Cheech), Danny, Eric, and Rob (also called Robbie).
 
-Whenever generating or describing an image that involves any group member, first look at their photo in `photos/` to reference their actual appearance in the image prompt or description.
+When generating or describing any image that involves "the group" or any individual member by name (Cesar, Cheech, Danny, Eric, Rob, Robbie) — open and review `photos/group-members.jpg` first and use their actual appearance to inform the image prompt or description.
+
+Do NOT reference `group-members.jpg` for image requests that don't involve any group member.
 
 ## Chat Topics
 
